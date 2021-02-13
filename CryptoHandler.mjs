@@ -1,8 +1,8 @@
 /**
  * CryptoHandler - WebCrypto utilities
- * @license The MIT License (MIT)             - [https://github.com/subversivo58/crypto-handler/blob/master/LICENSE]
+ * @license The MIT License (MIT)             - [https://github.com/subversivo58/crypto-handler/blob/main/LICENSE]
  * @copyright Copyright (c) 2021 Lauro Moraes - [https://github.com/subversivo58]
- * @version 0.1.0 [development stage]         - [https://github.com/subversivo58/crypto-handler/blob/master/VERSIONING.md]
+ * @version 0.1.0 [development stage]         - [https://github.com/subversivo58/crypto-handler/blob/main/VERSIONING.md]
  */
 
 const UTILS = {
