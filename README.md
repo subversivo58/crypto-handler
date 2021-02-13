@@ -1,2 +1,4 @@
-# crypto-handler
-WebCrypto utilities
+## crypto-handler
+
+
+WebCrypto utilities whit ES6 module
